@@ -13,7 +13,12 @@
 
 
 > [Python 初學第十二講—檔案處理](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-bf0648108581)
- 
+
+## 執行畫面
+
+https://wagame.coderbridge.io/2020/10/22/python-分析-儲存api擷取網站資料/
+
+
  
  
  
