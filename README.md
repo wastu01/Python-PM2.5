@@ -1,8 +1,10 @@
 # Python-PM2.5
  
- 
-  抓取政府資料開放平台 空氣品質指標（AQI）的數據，
-  篩選出 PM2.5 的即時資訊  並做檔案處理
+ 抓取政府資料開放平台 空氣品質指標（AQI）的數據
+  
+## 執行畫面
+
+> [Python-PM2.5-DataAnalyzing](https://index.coderbridge.io/2020/10/22/Python-%E5%88%86%E6%9E%90%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%8C%87%E6%A8%99-PM25-AQI/)
   
 
 ## 參考資料
@@ -13,10 +15,6 @@
 
 
 > [Python 初學第十二講—檔案處理](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-bf0648108581)
-
-## 執行畫面
-
-https://wagame.coderbridge.io/2020/10/22/python-分析-儲存api擷取網站資料/
 
 
  
