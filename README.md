@@ -4,7 +4,7 @@
   
 ## 執行畫面
 
-> [Python-PM2.5-DataAnalyzing](Python-分析空氣品質指標-PM25-AQI)
+> [Python-PM2.5-DataAnalyzing](https://index.coderbridge.io/2020/10/22/Python-分析空氣品質指標-PM25-AQI/)
   
 
 ## 參考資料
