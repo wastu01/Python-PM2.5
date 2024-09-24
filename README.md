@@ -9,7 +9,7 @@
 
 > [Python-PM2.5-DataAnalyzing](https://wastu01.github.io/article/python-pm25-aqi-opendata/)
 
-> ![](https://static.coderbridge.com/img/mrwang01/92475ef8e70f465492ae72420bb458e5.png)
+![](https://static.coderbridge.com/img/mrwang01/92475ef8e70f465492ae72420bb458e5.png)
 
 ## 參考資料
 
