@@ -3,6 +3,7 @@
  抓取政府資料開放平台 空氣品質指標（AQI）的數據
 
  2024 更新：平臺 API 網址有更換過，請參考 [環境部環境資料開放平臺](https://data.moenv.gov.tw/paradigm) 
+
   
 ## 執行畫面
 
@@ -19,3 +20,15 @@
 
 
 > [Python 初學第十二講—檔案處理](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-bf0648108581)
+
+實際案例應用：
+
+民生公共物聯網資料應用---將開放資料結合 GIS 放入地圖，以網頁方式來呈現
+[https://learnciot.github.io/ch7/ch7.3/](https://learnciot.github.io/ch7/ch7.3/)
+
+新竹科學園區空氣品質監測網：
+https://hspair.sipa.gov.tw/Hspairpeople/Default.aspx
+空器品質趨勢圖
+![](https://static.coderbridge.com/img/mrwang01/ac44d8fcd1b24b848f480ac5be8f735a.png)
+
+
