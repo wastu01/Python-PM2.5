@@ -14,6 +14,8 @@ can't parse JSON. Raw result:
 
  ```
 
+目前想法：把 limit 降低或是用迴圈一次只獲取特定天數的資料，但偶爾還是會回傳錯誤。
+
 ## 執行畫面
 
 > [Python-PM2.5-DataAnalyzing](https://wastu01.github.io/article/python-pm25-aqi-opendata/)
